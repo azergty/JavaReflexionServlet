@@ -1,0 +1,12 @@
+déc. 17, 2020 10:55:40 AM www.log.MonLogger setLogger
+GRAVE: ReflektionMethod doesn't find method for request =>/www/administrator/getall, 
+ CONTROLLER =>'Administrator',
+ FUNCTION =>'getall'
+déc. 17, 2020 10:56:06 AM www.log.MonLogger setLogger
+GRAVE: ReflektionMethod doesn't find method for request =>/www/administrator/getAllUsers, 
+ CONTROLLER =>'Administrator',
+ FUNCTION =>'getallusers'
+déc. 17, 2020 10:56:19 AM www.log.MonLogger setLogger
+GRAVE: ReflektionMethod doesn't find method for request =>/www/administrator/getAllUsers, 
+ CONTROLLER =>'Administrator',
+ FUNCTION =>'getallusers'

@@ -1,0 +1,912 @@
+déc. 17, 2020 10:08:35 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:09:38 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:10:00 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:10:01 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:10:10 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:10:21 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:10:22 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:11:16 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:11:33 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:11:59 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:12:42 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:12:53 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:12:54 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:14:57 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:15:10 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:17:04 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:17:31 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:17:55 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/
+*PARSING****
+$CONTROLLER => : Controller
+$FUNCTION => : index
+****************************************************************
+
+déc. 17, 2020 10:17:59 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:19:15 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:19:36 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:25:55 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:26:44 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:26:51 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:27:17 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:27:40 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:28:04 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:30:24 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:30:46 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:31:56 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:36:46 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:37:18 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:38:25 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:38:26 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:42:33 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:43:34 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:45:00 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/connexion
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:55:40 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/getall
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/getall
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : getall
+****************************************************************
+
+déc. 17, 2020 10:56:06 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/getAllUsers
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/getAllUsers
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : getallusers
+****************************************************************
+
+déc. 17, 2020 10:56:19 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/getAllUsers
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/getAllUsers
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : getallusers
+****************************************************************
+
+déc. 17, 2020 10:56:57 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 10:58:07 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/connexion
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 10:59:03 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/connexion
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/connexion
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : connexion
+****************************************************************
+
+déc. 17, 2020 11:01:51 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 11:02:24 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/users/inscription
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/users/inscription
+*PARSING****
+$CONTROLLER => : Users
+$FUNCTION => : inscription
+****************************************************************
+
+déc. 17, 2020 11:04:00 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 11:04:56 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 11:05:35 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 11:07:54 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 11:10:31 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 11:11:22 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 11:13:07 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 11:13:32 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 11:15:31 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 11:18:27 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 11:20:20 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+
+déc. 17, 2020 11:20:53 AM www.log.MonLogger setLogger
+INFOS: ****************************************************************
+Protocole :http
+Nom domaine  :localhost
+Port :8080
+Nom application :/www
+Chemin de ressource :/administrator/get-all-users
+Local : fr_FR
+Méthode : GET
+Users Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+url : /www/administrator/get-all-users
+*PARSING****
+$CONTROLLER => : Administrator
+$FUNCTION => : get_all_users
+****************************************************************
+

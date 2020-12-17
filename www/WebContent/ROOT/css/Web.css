@@ -1,0 +1,186 @@
+@charset "UTF-8";
+
+h1,.h1{
+	width:100%;
+	text-align:center;
+	
+	
+}
+h2{
+		margin-bottom:40px;
+}
+h2.center{
+	text-align:center;
+	width:100%;
+
+	
+}
+.center{
+	text-align:center;
+}
+.button{
+	
+	width:100%;
+	text-align:center;
+	margin:20px 0px;
+	
+	
+}
+.button a,
+.button input{
+	
+	display:block;
+	min-width:100px;
+	max-width:150px;
+	padding:13px 30px;
+	border-radius:10px;
+	border : 4px solid #fff;
+	background-color:green;
+	color:#fff;
+	text-align:center;
+	margin:auto;
+	text-decoration:none;
+	transition:400ms;
+	cursor:pointer;
+}
+.button a:hover,
+.button input:hover{
+
+	border : 4px solid green;
+	background-color:#fff;
+	color:green;
+	
+}
+
+.line{
+	
+	height:1px;
+	margin:20px auto;
+	background-color:#eee;
+
+}
+
+.width_80 {
+
+	width:80%;
+}
+
+div.container-label-shi{
+	display:block;
+
+	/*overflow:hidden;*/
+	position:relative;
+	padding:30px 0px;		
+	
+}
+input[type="radio"].input-shi-fu-mi{
+	width:311px;
+	height:307px;
+	display:block;
+	left:50%;
+	transform:translateX(-50%);
+	position:absolute;
+	border-radius:0;
+	margin:0px;
+	padding:0px;
+	top:0px;
+
+	z-index:1000;
+	cursor:pointer;
+	appearance: none;
+    -moz-appearance: none;		
+	
+}
+input{
+	
+	
+	outline:none;
+}
+
+input[type="radio"].input-shi-fu-mi:checked + label.shi-fu-mi img {
+	
+	filter : brightness(100%);
+}
+
+input[type="radio"].input-shi-fu-mi:checked + label.shi-fu-mi {
+	transform:scale(1.2);
+
+}
+label.shi-fu-mi{
+	width:311px;
+	height:307px;
+	display:block;
+	overflow:hidden;
+	margin:auto;
+	cursor : pointer;
+	position:relative;
+	transition:500ms;
+	
+}
+label.shi-fu-mi img{
+	top:-120px;
+	position:absolute;
+	filter : brightness(50%);
+	transition:500ms;
+}
+label.shi-fu-mi img:hover{
+
+	filter : brightness(100%);
+}
+label.shi-fu-mi img.shi-1{
+	left:-29px;
+}
+label.shi-fu-mi img.shi-2{
+	left:-356px;
+}
+label.shi-fu-mi img.shi-3{
+	left:-685px;
+}
+form div:not(.button) {
+	text-align:center;
+	margin:15px 0px;
+	height:80px;
+}
+form span.errors {
+	text-align:center;
+	height:50px;
+	padding:5px 0px;
+	width:100%;
+	display:block;
+	color:red;
+	font-size:12px;
+}
+form div.errors {
+	text-align:center;
+	height:50px;
+	padding:5px 0px;
+	width:100%;
+	display:block;
+	color:red;
+	font-size:15px;
+	line-height:50px;
+}
+form input:not([type="button"]):not([type="submit"]){
+	height:30px;
+	width : 350px;
+	
+	
+}
+form input.errors{
+	border:1px solid red;
+}
+input:focus:after{
+	content:"yoyoyooyoyo";
+
+	display:block;
+	width:100%;
+	height:30px;
+	line-height:30px;
+	font-size:25px;
+	
+}
+
+div.no-account{
+	font-size:13px;
+	font-weight:300;
+}
